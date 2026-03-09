@@ -1,3 +1,3 @@
-import random
+import math
 print("mouse")
 print("michael")
