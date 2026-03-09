@@ -1,1 +1,2 @@
-print("computador")
+print(1)
+print(2)
