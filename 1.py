@@ -1,1 +1,1 @@
-print("teclado")
+print(2)
