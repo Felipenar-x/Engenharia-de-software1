@@ -1,1 +1,1 @@
-print("computador")
+print("teclado")
